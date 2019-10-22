@@ -4,7 +4,7 @@
   "description": "editado por zag",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev":"nodemon src/index.js"
   },
   "repository": {
     "type": "git",
@@ -18,6 +18,11 @@
   },
   "homepage": "https://github.com/zaagagon/nodo-mongo-gitpod#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "mongoose": "^5.7.6"
+  },
+  "devDependencies": {
+    "nodaemon": "0.0.5",
+    "nodemon": "^1.19.4"
   }
 }
