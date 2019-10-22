@@ -1,0 +1,23 @@
+{
+  "name": "nodo-mongo-gitpod",
+  "version": "1.0.0",
+  "description": "editado por zag",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zaagagon/nodo-mongo-gitpod.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zaagagon/nodo-mongo-gitpod/issues"
+  },
+  "homepage": "https://github.com/zaagagon/nodo-mongo-gitpod#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
